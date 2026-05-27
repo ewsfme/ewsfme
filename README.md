@@ -10,13 +10,6 @@
 
 ---
 
-## 🚀 Projects I'm Working On
-
-*   **[Project Name 1]** — A web application for [brief description, e.g., password generation / utility].
-*   **[Project Name 2]** — An IoT framework focusing on smart, tech-driven solutions.
-
----
-
 ## 🎯 Current Interests
 
 *   QA automation
@@ -28,7 +21,4 @@
 ---
 
 ## 📬 Connect With Me
-
-*   **Discord / Telegram:** [@your_handle]
-*   **Email:** [your.email@example.com]
-*   **Portfolio:** [Link to your website]
+*   **Portfolio:** [[Click](https://ditchedpath.vercel.app/)]
