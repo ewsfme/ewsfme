@@ -1,4 +1,4 @@
-# 👋 Hi there
+# 👋 Hi there,
 
 ---
 
@@ -15,8 +15,7 @@
 *   QA automation
 *   Web Development
 *   Experimenting with Linux distributions
-*   Sound design and electronic music production (FL Studio)
-*   
+*   Sound design and electronic music production (FL Studio) 
 
 ---
 
