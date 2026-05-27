@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there
 
-<!--
-**ewsfme/ewsfme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Languages:** JavaScript, C#, C++, HTML/CSS, SQL
+*   **Web Dev:** Mainly frontend
+*   **OS & Workflow:** Windows 11 / EndevourOS, Git, VS Code
+
+---
+
+## 🚀 Projects I'm Working On
+
+*   **[Project Name 1]** — A web application for [brief description, e.g., password generation / utility].
+*   **[Project Name 2]** — An IoT framework focusing on smart, tech-driven solutions.
+
+---
+
+## 🎯 Current Interests
+
+*   QA automation
+*   Web Development
+*   Experimenting with Linux distributions
+*   Sound design and electronic music production (FL Studio)
+*   
+
+---
+
+## 📬 Connect With Me
+
+*   **Discord / Telegram:** [@your_handle]
+*   **Email:** [your.email@example.com]
+*   **Portfolio:** [Link to your website]
