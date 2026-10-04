@@ -19,5 +19,3 @@
 
 ---
 
-## 📬 Connect With Me
-*   **Portfolio:** [[Click](https://ditchedpath.vercel.app/)]
