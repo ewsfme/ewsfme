@@ -1,5 +1,5 @@
 
-# ditch / ewsfme
+# hello, world
 
 writing code, automating tests, breaking linux, and occasionally building weird stuff on the web.
 
