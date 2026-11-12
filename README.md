@@ -5,10 +5,10 @@ writing code, automating tests, breaking linux, and occasionally building weird 
 
 ## what i do
 
-- qa automation (cypress, playwright, typescript)
-- web dev & p2p experiments
-- tinkering with fedora / kde, ricing terminal setups
-- making beats and shooting 35mm film every now and then
+- qa automation (cypress / playwright)
+- web dev & idk some game dev experiments
+- tinkering with fedora kde
+- side projects that mostly live on localhost
 
 ## links
 
